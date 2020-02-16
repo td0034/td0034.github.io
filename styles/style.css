@@ -13,6 +13,8 @@ p {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
+  color: #7fa4b0;
+
 }
 
 
@@ -21,7 +23,7 @@ html {
 }
 
 body {
-  width: 1536px;
+  width: 800px;
   margin: 0 auto;
   background-color: #FFFFFF;
   padding: 0 20px 20px 20px;
